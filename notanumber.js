@@ -16,3 +16,6 @@ console.log(typeof(players));
 var myhome = null;
 console.log(myhome);
 console.log(typeof(myhome));
+
+var number2 = 9456066162;
+console.log(number2);
